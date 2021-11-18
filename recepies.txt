@@ -2,3 +2,8 @@ Veggies
 Fruits
 Beans
 breads
+
+Non veg:
+chicken fry
+biryani
+mutton fry
